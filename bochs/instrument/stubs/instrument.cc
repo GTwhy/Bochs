@@ -21,6 +21,7 @@
 
 
 #include "bochs.h"
+#include "cpu/decoder/instr.h"
 
 #if BX_INSTRUMENTATION
 
